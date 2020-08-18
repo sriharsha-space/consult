@@ -1,0 +1,17 @@
+title: Aerospace Technology Consultant
+description: Structural design and optimisation
+
+baseurl:
+color-scheme: "#033249ff" # the scheme can be any HEX code like "#00aa55  033249ff"
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache
+
+livereload: true
